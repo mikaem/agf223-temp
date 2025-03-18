@@ -1,6 +1,6 @@
 langmuir
 scipy
-numpy==1.23
+numpy>=2.0
 matplotlib
 ipython
 pandas
